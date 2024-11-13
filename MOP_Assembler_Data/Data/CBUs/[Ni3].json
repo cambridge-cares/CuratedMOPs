@@ -1,0 +1,110 @@
+{
+    "84768cfc-5bcd-4b66-8599-b2d6bed5f3d1": {
+        "atom": "Ni",
+        "coordinate_x": 1.900406,
+        "coordinate_y": 0.391638,
+        "coordinate_z": 0.0,
+        "bond": [
+            {
+                "to_atom": "d157727b-b096-4c3e-9690-85973aa20001",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "8ad3b97f-ef09-49a2-add2-55e860a18271",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "Ni4+2",
+        "qmmm": "MM"
+    },
+    "9f18d47d-0c3a-429f-b829-dfa53898e361": {
+        "atom": "Ni",
+        "coordinate_x": 1.900406,
+        "coordinate_y": -3.2916,
+        "coordinate_z": 0.0,
+        "bond": [
+            {
+                "to_atom": "d157727b-b096-4c3e-9690-85973aa20001",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "e8979acf-2f92-49df-a89a-2706f9116656",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "Ni4+2",
+        "qmmm": "MM"
+    },
+    "d157727b-b096-4c3e-9690-85973aa20001": {
+        "atom": "X",
+        "coordinate_x": 2.511441,
+        "coordinate_y": -1.449981,
+        "coordinate_z": 0.0,
+        "bond": [
+            {
+                "to_atom": "84768cfc-5bcd-4b66-8599-b2d6bed5f3d1",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "9f18d47d-0c3a-429f-b829-dfa53898e361",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "Ni4+2",
+        "qmmm": "MM"
+    },
+    "6bdaa00d-888e-4570-939d-22f6780bb50b": {
+        "atom": "Ni",
+        "coordinate_x": -1.289372,
+        "coordinate_y": -1.449981,
+        "coordinate_z": 0.0,
+        "bond": [
+            {
+                "to_atom": "8ad3b97f-ef09-49a2-add2-55e860a18271",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "e8979acf-2f92-49df-a89a-2706f9116656",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "Ni4+2",
+        "qmmm": "MM"
+    },
+    "8ad3b97f-ef09-49a2-add2-55e860a18271": {
+        "atom": "X",
+        "coordinate_x": 0.0,
+        "coordinate_y": 0.0,
+        "coordinate_z": 0.0,
+        "bond": [
+            {
+                "to_atom": "84768cfc-5bcd-4b66-8599-b2d6bed5f3d1",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "6bdaa00d-888e-4570-939d-22f6780bb50b",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "Ni4+2",
+        "qmmm": "MM"
+    },
+    "e8979acf-2f92-49df-a89a-2706f9116656": {
+        "atom": "X",
+        "coordinate_x": 0.0,
+        "coordinate_y": -2.899962,
+        "coordinate_z": 0.0,
+        "bond": [
+            {
+                "to_atom": "9f18d47d-0c3a-429f-b829-dfa53898e361",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "6bdaa00d-888e-4570-939d-22f6780bb50b",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "Ni4+2",
+        "qmmm": "MM"
+    }
+}

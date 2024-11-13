@@ -1,0 +1,3177 @@
+{
+    "e846e029-e02c-437a-8c3a-69bb31eaa108": {
+        "atom": "C",
+        "coordinate_x": -0.0374,
+        "coordinate_y": 0.3049,
+        "coordinate_z": 0.0943,
+        "bond": [
+            {
+                "to_atom": "1cf488a0-4bad-4ade-b242-d00bdbcea25e",
+                "bond_order": 4.0
+            },
+            {
+                "to_atom": "156ff868-e206-4ca6-abd1-7be969ac291e",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "dd8372f4-47ed-4935-a4d9-6bfeb29259ee": {
+        "atom": "C",
+        "coordinate_x": -0.23,
+        "coordinate_y": -0.8866,
+        "coordinate_z": -0.625,
+        "bond": [
+            {
+                "to_atom": "c919e7db-feed-4b7e-9a4c-98c7883f1937",
+                "bond_order": 4.0
+            },
+            {
+                "to_atom": "464354ca-39af-428a-a17d-7348c3105ccd",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "c919e7db-feed-4b7e-9a4c-98c7883f1937": {
+        "atom": "C",
+        "coordinate_x": -0.1651,
+        "coordinate_y": -0.8986,
+        "coordinate_z": -2.0283,
+        "bond": [
+            {
+                "to_atom": "dd8372f4-47ed-4935-a4d9-6bfeb29259ee",
+                "bond_order": 4.0
+            },
+            {
+                "to_atom": "b31353eb-c6c0-46af-89c8-49bb4e4e8864",
+                "bond_order": 4.0
+            },
+            {
+                "to_atom": "51cd4bad-afc6-41fb-9d16-b3957b45b397",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "b31353eb-c6c0-46af-89c8-49bb4e4e8864": {
+        "atom": "C",
+        "coordinate_x": 0.0966,
+        "coordinate_y": 0.3006,
+        "coordinate_z": -2.7122,
+        "bond": [
+            {
+                "to_atom": "c919e7db-feed-4b7e-9a4c-98c7883f1937",
+                "bond_order": 4.0
+            },
+            {
+                "to_atom": "7926c1e8-5c2e-4751-a8f0-dbd9d993316c",
+                "bond_order": 4.0
+            },
+            {
+                "to_atom": "f73a3c67-cc76-49c7-b3bd-ffb6c768f55f",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "7926c1e8-5c2e-4751-a8f0-dbd9d993316c": {
+        "atom": "C",
+        "coordinate_x": 0.2918,
+        "coordinate_y": 1.5021,
+        "coordinate_z": -2.0102,
+        "bond": [
+            {
+                "to_atom": "b31353eb-c6c0-46af-89c8-49bb4e4e8864",
+                "bond_order": 4.0
+            },
+            {
+                "to_atom": "1cf488a0-4bad-4ade-b242-d00bdbcea25e",
+                "bond_order": 4.0
+            },
+            {
+                "to_atom": "d78d1904-3ff2-4e5b-9bd8-28577949f259",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "1cf488a0-4bad-4ade-b242-d00bdbcea25e": {
+        "atom": "C",
+        "coordinate_x": 0.2232,
+        "coordinate_y": 1.494,
+        "coordinate_z": -0.6073,
+        "bond": [
+            {
+                "to_atom": "e846e029-e02c-437a-8c3a-69bb31eaa108",
+                "bond_order": 4.0
+            },
+            {
+                "to_atom": "7926c1e8-5c2e-4751-a8f0-dbd9d993316c",
+                "bond_order": 4.0
+            },
+            {
+                "to_atom": "77d1e0f8-7ad2-41bd-9c50-cb664dcba6af",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "464354ca-39af-428a-a17d-7348c3105ccd": {
+        "atom": "H",
+        "coordinate_x": -0.4479,
+        "coordinate_y": -1.8024,
+        "coordinate_z": -0.0894,
+        "bond": [
+            {
+                "to_atom": "dd8372f4-47ed-4935-a4d9-6bfeb29259ee",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "246fb7dc-7622-40b5-adde-664363a95d18": {
+        "atom": "O",
+        "coordinate_x": -0.6154,
+        "coordinate_y": -3.2821,
+        "coordinate_z": -2.1398,
+        "bond": [
+            {
+                "to_atom": "51cd4bad-afc6-41fb-9d16-b3957b45b397",
+                "bond_order": 4.0
+            },
+            {
+                "to_atom": "94618b01-38be-4cb9-96ae-73cc2e2754f0",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "f73a3c67-cc76-49c7-b3bd-ffb6c768f55f": {
+        "atom": "H",
+        "coordinate_x": 0.1482,
+        "coordinate_y": 0.2989,
+        "coordinate_z": -3.7941,
+        "bond": [
+            {
+                "to_atom": "b31353eb-c6c0-46af-89c8-49bb4e4e8864",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "cf13d4b9-5bc9-4037-8b2c-1a4fd611d228": {
+        "atom": "O",
+        "coordinate_x": 0.6378,
+        "coordinate_y": 2.7715,
+        "coordinate_z": -4.0512,
+        "bond": [
+            {
+                "to_atom": "d78d1904-3ff2-4e5b-9bd8-28577949f259",
+                "bond_order": 4.0
+            },
+            {
+                "to_atom": "3e7fa9cb-5f29-412a-b05c-131d1814be7d",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "77d1e0f8-7ad2-41bd-9c50-cb664dcba6af": {
+        "atom": "H",
+        "coordinate_x": 0.3906,
+        "coordinate_y": 2.4113,
+        "coordinate_z": -0.0563,
+        "bond": [
+            {
+                "to_atom": "1cf488a0-4bad-4ade-b242-d00bdbcea25e",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "83f839a7-6ee1-4e05-8632-5d4f53b6c4fc": {
+        "atom": "O",
+        "coordinate_x": 0.7516,
+        "coordinate_y": 3.8853,
+        "coordinate_z": -2.0838,
+        "bond": [
+            {
+                "to_atom": "d78d1904-3ff2-4e5b-9bd8-28577949f259",
+                "bond_order": 4.0
+            },
+            {
+                "to_atom": "3e7fa9cb-5f29-412a-b05c-131d1814be7d",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "51cd4bad-afc6-41fb-9d16-b3957b45b397": {
+        "atom": "C",
+        "coordinate_x": -0.3729,
+        "coordinate_y": -2.159,
+        "coordinate_z": -2.7773,
+        "bond": [
+            {
+                "to_atom": "c919e7db-feed-4b7e-9a4c-98c7883f1937",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "246fb7dc-7622-40b5-adde-664363a95d18",
+                "bond_order": 4.0
+            },
+            {
+                "to_atom": "daf98310-d3df-49a0-844f-7108414a7ce4",
+                "bond_order": 4.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "daf98310-d3df-49a0-844f-7108414a7ce4": {
+        "atom": "O",
+        "coordinate_x": -0.3151,
+        "coordinate_y": -2.1727,
+        "coordinate_z": -4.09,
+        "bond": [
+            {
+                "to_atom": "51cd4bad-afc6-41fb-9d16-b3957b45b397",
+                "bond_order": 4.0
+            },
+            {
+                "to_atom": "94618b01-38be-4cb9-96ae-73cc2e2754f0",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "d78d1904-3ff2-4e5b-9bd8-28577949f259": {
+        "atom": "C",
+        "coordinate_x": 0.57,
+        "coordinate_y": 2.7608,
+        "coordinate_z": -2.7391,
+        "bond": [
+            {
+                "to_atom": "7926c1e8-5c2e-4751-a8f0-dbd9d993316c",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "cf13d4b9-5bc9-4037-8b2c-1a4fd611d228",
+                "bond_order": 4.0
+            },
+            {
+                "to_atom": "83f839a7-6ee1-4e05-8632-5d4f53b6c4fc",
+                "bond_order": 4.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "b847740a-7a64-40c9-8302-7302531132de": {
+        "atom": "C",
+        "coordinate_x": 0.0916,
+        "coordinate_y": 0.331,
+        "coordinate_z": 4.3094,
+        "bond": [
+            {
+                "to_atom": "102a9afe-a11f-4797-a254-3cc68d2f5367",
+                "bond_order": 4.0
+            },
+            {
+                "to_atom": "a87e72e7-2772-41a9-887d-7ba08deaba1a",
+                "bond_order": 4.0
+            },
+            {
+                "to_atom": "1dff0bc8-7b69-4e37-a123-3e70e3538da4",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "102a9afe-a11f-4797-a254-3cc68d2f5367": {
+        "atom": "C",
+        "coordinate_x": -0.4332,
+        "coordinate_y": -0.8923,
+        "coordinate_z": 3.6765,
+        "bond": [
+            {
+                "to_atom": "b847740a-7a64-40c9-8302-7302531132de",
+                "bond_order": 4.0
+            },
+            {
+                "to_atom": "3028dcb7-df8c-4abf-a7bd-aed709a65234",
+                "bond_order": 4.0
+            },
+            {
+                "to_atom": "abf86824-0165-4933-9d92-01ddac392252",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "a87e72e7-2772-41a9-887d-7ba08deaba1a": {
+        "atom": "C",
+        "coordinate_x": 0.0249,
+        "coordinate_y": 1.5112,
+        "coordinate_z": 3.7037,
+        "bond": [
+            {
+                "to_atom": "b847740a-7a64-40c9-8302-7302531132de",
+                "bond_order": 4.0
+            },
+            {
+                "to_atom": "6d93f6c4-7bab-4e58-93a8-0fbbf4200ca5",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "df54c93c-bebd-4220-b323-84dabc9d9602",
+                "bond_order": 4.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "6d93f6c4-7bab-4e58-93a8-0fbbf4200ca5": {
+        "atom": "O",
+        "coordinate_x": 0.7761,
+        "coordinate_y": 2.5692,
+        "coordinate_z": 4.2468,
+        "bond": [
+            {
+                "to_atom": "a87e72e7-2772-41a9-887d-7ba08deaba1a",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "86a144ac-a28f-4baa-a609-7a6fe35fefb6",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "1dff0bc8-7b69-4e37-a123-3e70e3538da4": {
+        "atom": "O",
+        "coordinate_x": 0.0469,
+        "coordinate_y": 0.7954,
+        "coordinate_z": 5.5245,
+        "bond": [
+            {
+                "to_atom": "b847740a-7a64-40c9-8302-7302531132de",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "a5a3909e-1bfe-4866-9780-99d7d0772f66",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "3028dcb7-df8c-4abf-a7bd-aed709a65234": {
+        "atom": "C",
+        "coordinate_x": -0.369,
+        "coordinate_y": -0.8771,
+        "coordinate_z": 2.2799,
+        "bond": [
+            {
+                "to_atom": "102a9afe-a11f-4797-a254-3cc68d2f5367",
+                "bond_order": 4.0
+            },
+            {
+                "to_atom": "156ff868-e206-4ca6-abd1-7be969ac291e",
+                "bond_order": 4.0
+            },
+            {
+                "to_atom": "e29aff8f-52aa-4405-8592-8fdcf176ee0d",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "156ff868-e206-4ca6-abd1-7be969ac291e": {
+        "atom": "C",
+        "coordinate_x": -0.1087,
+        "coordinate_y": 0.3083,
+        "coordinate_z": 1.5782,
+        "bond": [
+            {
+                "to_atom": "e846e029-e02c-437a-8c3a-69bb31eaa108",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "3028dcb7-df8c-4abf-a7bd-aed709a65234",
+                "bond_order": 4.0
+            },
+            {
+                "to_atom": "df54c93c-bebd-4220-b323-84dabc9d9602",
+                "bond_order": 4.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "df54c93c-bebd-4220-b323-84dabc9d9602": {
+        "atom": "C",
+        "coordinate_x": 0.0857,
+        "coordinate_y": 1.4965,
+        "coordinate_z": 2.2967,
+        "bond": [
+            {
+                "to_atom": "a87e72e7-2772-41a9-887d-7ba08deaba1a",
+                "bond_order": 4.0
+            },
+            {
+                "to_atom": "156ff868-e206-4ca6-abd1-7be969ac291e",
+                "bond_order": 4.0
+            },
+            {
+                "to_atom": "b904dbfd-600f-4251-a9bc-8a1dd53a6acc",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "abf86824-0165-4933-9d92-01ddac392252": {
+        "atom": "O",
+        "coordinate_x": -0.7685,
+        "coordinate_y": -2.0532,
+        "coordinate_z": 4.403,
+        "bond": [
+            {
+                "to_atom": "102a9afe-a11f-4797-a254-3cc68d2f5367",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "8117bc17-d854-46b8-8ce4-2b31e00a5e1a",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "e29aff8f-52aa-4405-8592-8fdcf176ee0d": {
+        "atom": "H",
+        "coordinate_x": -0.5072,
+        "coordinate_y": -1.8068,
+        "coordinate_z": 1.7411,
+        "bond": [
+            {
+                "to_atom": "3028dcb7-df8c-4abf-a7bd-aed709a65234",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "b904dbfd-600f-4251-a9bc-8a1dd53a6acc": {
+        "atom": "H",
+        "coordinate_x": 0.2674,
+        "coordinate_y": 2.42,
+        "coordinate_z": 1.7598,
+        "bond": [
+            {
+                "to_atom": "df54c93c-bebd-4220-b323-84dabc9d9602",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "0ba05676-9e45-4e8b-993d-334080b6254e": {
+        "atom": "H",
+        "coordinate_x": -0.5297,
+        "coordinate_y": 6.4632,
+        "coordinate_z": 22.3561,
+        "bond": [
+            {
+                "to_atom": "13e54353-11a9-4e95-a53f-13fb55ee52f7",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "d27bece5-9ccf-4c2d-bf25-8234fb16d6ae": {
+        "atom": "H",
+        "coordinate_x": -0.9554,
+        "coordinate_y": 2.6038,
+        "coordinate_z": 24.0306,
+        "bond": [
+            {
+                "to_atom": "1c13c2ed-99b5-4fd4-8d80-1a50163a0a2b",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "81a7fe75-c640-46a5-a373-47e7c193cdb6": {
+        "atom": "H",
+        "coordinate_x": -1.5105,
+        "coordinate_y": -0.7923,
+        "coordinate_z": 5.8354,
+        "bond": [
+            {
+                "to_atom": "8117bc17-d854-46b8-8ce4-2b31e00a5e1a",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "552b09c4-0671-4cd2-bdad-40606fa722b1": {
+        "atom": "H",
+        "coordinate_x": -2.0836,
+        "coordinate_y": -2.4358,
+        "coordinate_z": 19.4821,
+        "bond": [
+            {
+                "to_atom": "843e17c4-ef93-4b54-8e97-06b0f7685092",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "344fc728-082a-4119-9ef5-44ecb8f22ebf": {
+        "atom": "C",
+        "coordinate_x": -0.8315,
+        "coordinate_y": -1.2738,
+        "coordinate_z": 15.6856,
+        "bond": [
+            {
+                "to_atom": "6d03f09d-fd53-4942-8206-512a692c85b5",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "541678ce-9b2c-48e9-9037-3b63172aeef2",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "8c2d9d35-4daf-44fc-a038-17aca7c5d44a",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "c35e889e-7ec6-42e1-a1bb-881658bce36d",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "6d03f09d-fd53-4942-8206-512a692c85b5": {
+        "atom": "H",
+        "coordinate_x": -1.5756,
+        "coordinate_y": -0.4473,
+        "coordinate_z": 15.6482,
+        "bond": [
+            {
+                "to_atom": "344fc728-082a-4119-9ef5-44ecb8f22ebf",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "e07036a5-b5c7-44fb-baeb-3e7ecb7a9a30": {
+        "atom": "C",
+        "coordinate_x": -0.774,
+        "coordinate_y": -1.443,
+        "coordinate_z": 10.6628,
+        "bond": [
+            {
+                "to_atom": "d290bc5a-cf47-4821-b20f-873143df53cf",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "ad52a26b-fa0b-45f2-a8ec-465e227e8dd5",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "3bc39a17-8ff1-4a84-9815-c3226728e5f1",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "0657f771-4a5b-4284-a659-b0499917e079",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "d290bc5a-cf47-4821-b20f-873143df53cf": {
+        "atom": "C",
+        "coordinate_x": -0.9752,
+        "coordinate_y": -2.25,
+        "coordinate_z": 11.946,
+        "bond": [
+            {
+                "to_atom": "e07036a5-b5c7-44fb-baeb-3e7ecb7a9a30",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "871a075a-5628-455f-a282-e0c99f381d63",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "83db6ca3-9581-4118-bcfb-3a19a3e05fc8",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "93020b69-aa62-43a7-9991-cd6cf1988946",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "871a075a-5628-455f-a282-e0c99f381d63": {
+        "atom": "C",
+        "coordinate_x": -0.8029,
+        "coordinate_y": -1.3588,
+        "coordinate_z": 13.1751,
+        "bond": [
+            {
+                "to_atom": "d290bc5a-cf47-4821-b20f-873143df53cf",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "541678ce-9b2c-48e9-9037-3b63172aeef2",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "40892322-5d16-4dc8-8b9a-f4da5fab463c",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "e13c9b67-e313-46d9-a97a-158324d69c4b",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "541678ce-9b2c-48e9-9037-3b63172aeef2": {
+        "atom": "C",
+        "coordinate_x": -1.0039,
+        "coordinate_y": -2.1654,
+        "coordinate_z": 14.4572,
+        "bond": [
+            {
+                "to_atom": "344fc728-082a-4119-9ef5-44ecb8f22ebf",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "871a075a-5628-455f-a282-e0c99f381d63",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "a82d1470-0940-4260-b9b0-1d19c4a286cc",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "b7e31e51-62c5-4cd3-a6ad-8e36f64876ac",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "ad52a26b-fa0b-45f2-a8ec-465e227e8dd5": {
+        "atom": "H",
+        "coordinate_x": 0.2481,
+        "coordinate_y": -1.0034,
+        "coordinate_z": 10.6607,
+        "bond": [
+            {
+                "to_atom": "e07036a5-b5c7-44fb-baeb-3e7ecb7a9a30",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "3bc39a17-8ff1-4a84-9815-c3226728e5f1": {
+        "atom": "H",
+        "coordinate_x": -1.5177,
+        "coordinate_y": -0.6161,
+        "coordinate_z": 10.6275,
+        "bond": [
+            {
+                "to_atom": "e07036a5-b5c7-44fb-baeb-3e7ecb7a9a30",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "8c2d9d35-4daf-44fc-a038-17aca7c5d44a": {
+        "atom": "H",
+        "coordinate_x": 0.1909,
+        "coordinate_y": -0.8348,
+        "coordinate_z": 15.6814,
+        "bond": [
+            {
+                "to_atom": "344fc728-082a-4119-9ef5-44ecb8f22ebf",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "83db6ca3-9581-4118-bcfb-3a19a3e05fc8": {
+        "atom": "H",
+        "coordinate_x": -0.2313,
+        "coordinate_y": -3.0766,
+        "coordinate_z": 11.984,
+        "bond": [
+            {
+                "to_atom": "d290bc5a-cf47-4821-b20f-873143df53cf",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "93020b69-aa62-43a7-9991-cd6cf1988946": {
+        "atom": "H",
+        "coordinate_x": -1.9975,
+        "coordinate_y": -2.6892,
+        "coordinate_z": 11.9507,
+        "bond": [
+            {
+                "to_atom": "d290bc5a-cf47-4821-b20f-873143df53cf",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "40892322-5d16-4dc8-8b9a-f4da5fab463c": {
+        "atom": "H",
+        "coordinate_x": -1.5468,
+        "coordinate_y": -0.5322,
+        "coordinate_z": 13.1385,
+        "bond": [
+            {
+                "to_atom": "871a075a-5628-455f-a282-e0c99f381d63",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "e13c9b67-e313-46d9-a97a-158324d69c4b": {
+        "atom": "H",
+        "coordinate_x": 0.2194,
+        "coordinate_y": -0.9196,
+        "coordinate_z": 13.1718,
+        "bond": [
+            {
+                "to_atom": "871a075a-5628-455f-a282-e0c99f381d63",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "a82d1470-0940-4260-b9b0-1d19c4a286cc": {
+        "atom": "H",
+        "coordinate_x": -0.2598,
+        "coordinate_y": -2.9919,
+        "coordinate_z": 14.4946,
+        "bond": [
+            {
+                "to_atom": "541678ce-9b2c-48e9-9037-3b63172aeef2",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "b7e31e51-62c5-4cd3-a6ad-8e36f64876ac": {
+        "atom": "H",
+        "coordinate_x": -2.0264,
+        "coordinate_y": -2.6044,
+        "coordinate_z": 14.4614,
+        "bond": [
+            {
+                "to_atom": "541678ce-9b2c-48e9-9037-3b63172aeef2",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "fe6b1f26-0b30-4b9a-8b27-e0fb29e64ecb": {
+        "atom": "H",
+        "coordinate_x": -0.3699,
+        "coordinate_y": -2.6357,
+        "coordinate_z": 24.5781,
+        "bond": [
+            {
+                "to_atom": "747aaa32-fbed-4749-935c-c1bdfb97017b",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "c35e889e-7ec6-42e1-a1bb-881658bce36d": {
+        "atom": "C",
+        "coordinate_x": -1.0326,
+        "coordinate_y": -2.0804,
+        "coordinate_z": 16.9677,
+        "bond": [
+            {
+                "to_atom": "344fc728-082a-4119-9ef5-44ecb8f22ebf",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "7d772493-5cc7-4a60-8e88-0e1e7a264777",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "b4cba661-e3e1-4b8e-867c-743819e2eb4e",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "24913002-be66-4ff8-b524-c0466192bfe8",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "7d772493-5cc7-4a60-8e88-0e1e7a264777": {
+        "atom": "C",
+        "coordinate_x": -0.8603,
+        "coordinate_y": -1.1893,
+        "coordinate_z": 18.1968,
+        "bond": [
+            {
+                "to_atom": "c35e889e-7ec6-42e1-a1bb-881658bce36d",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "843e17c4-ef93-4b54-8e97-06b0f7685092",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "9ff8ee7a-1445-402f-99db-04190771194e",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "3259e939-c61b-4259-a732-25b90a6a87f1",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "843e17c4-ef93-4b54-8e97-06b0f7685092": {
+        "atom": "C",
+        "coordinate_x": -1.0614,
+        "coordinate_y": -1.9962,
+        "coordinate_z": 19.48,
+        "bond": [
+            {
+                "to_atom": "552b09c4-0671-4cd2-bdad-40606fa722b1",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "7d772493-5cc7-4a60-8e88-0e1e7a264777",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "29575f95-ed4d-4d03-94e9-5a66a658ede3",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "5e858df7-f0d5-4308-8f6b-29bd6b4872c3",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "b4cba661-e3e1-4b8e-867c-743819e2eb4e": {
+        "atom": "H",
+        "coordinate_x": -2.0549,
+        "coordinate_y": -2.5196,
+        "coordinate_z": 16.971,
+        "bond": [
+            {
+                "to_atom": "c35e889e-7ec6-42e1-a1bb-881658bce36d",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "24913002-be66-4ff8-b524-c0466192bfe8": {
+        "atom": "H",
+        "coordinate_x": -0.2886,
+        "coordinate_y": -2.907,
+        "coordinate_z": 17.0043,
+        "bond": [
+            {
+                "to_atom": "c35e889e-7ec6-42e1-a1bb-881658bce36d",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "9ff8ee7a-1445-402f-99db-04190771194e": {
+        "atom": "H",
+        "coordinate_x": -1.6041,
+        "coordinate_y": -0.3626,
+        "coordinate_z": 18.1588,
+        "bond": [
+            {
+                "to_atom": "7d772493-5cc7-4a60-8e88-0e1e7a264777",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "3259e939-c61b-4259-a732-25b90a6a87f1": {
+        "atom": "H",
+        "coordinate_x": 0.1621,
+        "coordinate_y": -0.75,
+        "coordinate_z": 18.1921,
+        "bond": [
+            {
+                "to_atom": "7d772493-5cc7-4a60-8e88-0e1e7a264777",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "29575f95-ed4d-4d03-94e9-5a66a658ede3": {
+        "atom": "H",
+        "coordinate_x": -0.3177,
+        "coordinate_y": -2.8231,
+        "coordinate_z": 19.5153,
+        "bond": [
+            {
+                "to_atom": "843e17c4-ef93-4b54-8e97-06b0f7685092",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "0657f771-4a5b-4284-a659-b0499917e079": {
+        "atom": "C",
+        "coordinate_x": -0.9462,
+        "coordinate_y": -2.3335,
+        "coordinate_z": 9.4314,
+        "bond": [
+            {
+                "to_atom": "e07036a5-b5c7-44fb-baeb-3e7ecb7a9a30",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "9331baae-bae5-4d2d-bf07-43d78932a929",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "c0a8fa71-be46-4efc-84c5-c17139650615",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "65f6c358-a8a1-4c69-bcf4-906b2d549f32",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "9331baae-bae5-4d2d-bf07-43d78932a929": {
+        "atom": "H",
+        "coordinate_x": -0.2028,
+        "coordinate_y": -3.1605,
+        "coordinate_z": 9.4696,
+        "bond": [
+            {
+                "to_atom": "0657f771-4a5b-4284-a659-b0499917e079",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "c0a8fa71-be46-4efc-84c5-c17139650615": {
+        "atom": "H",
+        "coordinate_x": -1.9682,
+        "coordinate_y": -2.7733,
+        "coordinate_z": 9.4363,
+        "bond": [
+            {
+                "to_atom": "0657f771-4a5b-4284-a659-b0499917e079",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "65f6c358-a8a1-4c69-bcf4-906b2d549f32": {
+        "atom": "C",
+        "coordinate_x": -0.7452,
+        "coordinate_y": -1.5278,
+        "coordinate_z": 8.1458,
+        "bond": [
+            {
+                "to_atom": "0657f771-4a5b-4284-a659-b0499917e079",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "df87ce40-c9cb-42f2-854c-0bef34097cee",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "ec63215f-ee35-4890-8c87-6758d5850be1",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "9c46c7ae-429e-4c59-a177-1a6f3fda0729",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "df87ce40-c9cb-42f2-854c-0bef34097cee": {
+        "atom": "H",
+        "coordinate_x": 0.2765,
+        "coordinate_y": -1.0875,
+        "coordinate_z": 8.1435,
+        "bond": [
+            {
+                "to_atom": "65f6c358-a8a1-4c69-bcf4-906b2d549f32",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "ec63215f-ee35-4890-8c87-6758d5850be1": {
+        "atom": "H",
+        "coordinate_x": -1.4882,
+        "coordinate_y": -0.7004,
+        "coordinate_z": 8.1103,
+        "bond": [
+            {
+                "to_atom": "65f6c358-a8a1-4c69-bcf4-906b2d549f32",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "9c46c7ae-429e-4c59-a177-1a6f3fda0729": {
+        "atom": "C",
+        "coordinate_x": -0.9176,
+        "coordinate_y": -2.4196,
+        "coordinate_z": 6.9135,
+        "bond": [
+            {
+                "to_atom": "65f6c358-a8a1-4c69-bcf4-906b2d549f32",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "8117bc17-d854-46b8-8ce4-2b31e00a5e1a",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "b77861e7-e0c2-443b-a011-3832c002002d",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "57bb93f2-cad0-4d62-90ae-a59d357b2165",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "8117bc17-d854-46b8-8ce4-2b31e00a5e1a": {
+        "atom": "C",
+        "coordinate_x": -0.7544,
+        "coordinate_y": -1.6102,
+        "coordinate_z": 5.7322,
+        "bond": [
+            {
+                "to_atom": "abf86824-0165-4933-9d92-01ddac392252",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "81a7fe75-c640-46a5-a373-47e7c193cdb6",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "9c46c7ae-429e-4c59-a177-1a6f3fda0729",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "d8b44b79-20cc-4ca2-b8e2-bdfd5af5cdbd",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "b77861e7-e0c2-443b-a011-3832c002002d": {
+        "atom": "H",
+        "coordinate_x": -1.9383,
+        "coordinate_y": -2.8605,
+        "coordinate_z": 6.9105,
+        "bond": [
+            {
+                "to_atom": "9c46c7ae-429e-4c59-a177-1a6f3fda0729",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "57bb93f2-cad0-4d62-90ae-a59d357b2165": {
+        "atom": "H",
+        "coordinate_x": -0.1757,
+        "coordinate_y": -3.2471,
+        "coordinate_z": 6.9437,
+        "bond": [
+            {
+                "to_atom": "9c46c7ae-429e-4c59-a177-1a6f3fda0729",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "d8b44b79-20cc-4ca2-b8e2-bdfd5af5cdbd": {
+        "atom": "H",
+        "coordinate_x": 0.3133,
+        "coordinate_y": -1.499,
+        "coordinate_z": 5.928,
+        "bond": [
+            {
+                "to_atom": "8117bc17-d854-46b8-8ce4-2b31e00a5e1a",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "5e858df7-f0d5-4308-8f6b-29bd6b4872c3": {
+        "atom": "C",
+        "coordinate_x": -0.8893,
+        "coordinate_y": -1.1057,
+        "coordinate_z": 20.7114,
+        "bond": [
+            {
+                "to_atom": "843e17c4-ef93-4b54-8e97-06b0f7685092",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "4145505f-69c3-46ee-a6f0-4286eb764c11",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "6d83a5c8-9440-4cb5-a6a0-94b27cb38bac",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "73828d50-04dd-43d8-9778-f2ab402bd8c4",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "4145505f-69c3-46ee-a6f0-4286eb764c11": {
+        "atom": "H",
+        "coordinate_x": -1.6327,
+        "coordinate_y": -0.2787,
+        "coordinate_z": 20.6732,
+        "bond": [
+            {
+                "to_atom": "5e858df7-f0d5-4308-8f6b-29bd6b4872c3",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "6d83a5c8-9440-4cb5-a6a0-94b27cb38bac": {
+        "atom": "H",
+        "coordinate_x": 0.1327,
+        "coordinate_y": -0.6659,
+        "coordinate_z": 20.7065,
+        "bond": [
+            {
+                "to_atom": "5e858df7-f0d5-4308-8f6b-29bd6b4872c3",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "3e0e6220-e1a6-45a8-bf55-328933ec00b7": {
+        "atom": "H",
+        "coordinate_x": -0.9861,
+        "coordinate_y": -1.1456,
+        "coordinate_z": 25.3889,
+        "bond": [
+            {
+                "to_atom": "747aaa32-fbed-4749-935c-c1bdfb97017b",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "73828d50-04dd-43d8-9778-f2ab402bd8c4": {
+        "atom": "C",
+        "coordinate_x": -1.0902,
+        "coordinate_y": -1.9114,
+        "coordinate_z": 21.997,
+        "bond": [
+            {
+                "to_atom": "5e858df7-f0d5-4308-8f6b-29bd6b4872c3",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "4707942c-043a-4c57-9a72-5ae6be6e28fe",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "0a6bb27f-2b8e-4e3c-861b-25605dd4e94f",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "e3ecffca-4b70-460d-97dd-5bf82b7f22ef",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "4707942c-043a-4c57-9a72-5ae6be6e28fe": {
+        "atom": "C",
+        "coordinate_x": -0.9178,
+        "coordinate_y": -1.0197,
+        "coordinate_z": 23.2293,
+        "bond": [
+            {
+                "to_atom": "73828d50-04dd-43d8-9778-f2ab402bd8c4",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "747aaa32-fbed-4749-935c-c1bdfb97017b",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "6c128a6b-9917-4b5a-b32c-d56e808d72b5",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "35f7961a-c647-4711-9a26-5d49ed89c8d7",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "747aaa32-fbed-4749-935c-c1bdfb97017b": {
+        "atom": "C",
+        "coordinate_x": -1.1167,
+        "coordinate_y": -1.816,
+        "coordinate_z": 24.514,
+        "bond": [
+            {
+                "to_atom": "fe6b1f26-0b30-4b9a-8b27-e0fb29e64ecb",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "3e0e6220-e1a6-45a8-bf55-328933ec00b7",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "4707942c-043a-4c57-9a72-5ae6be6e28fe",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "87436a0e-f18c-424f-b985-efc5773a0848",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "0a6bb27f-2b8e-4e3c-861b-25605dd4e94f": {
+        "atom": "H",
+        "coordinate_x": -2.112,
+        "coordinate_y": -2.3518,
+        "coordinate_z": 21.9993,
+        "bond": [
+            {
+                "to_atom": "73828d50-04dd-43d8-9778-f2ab402bd8c4",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "e3ecffca-4b70-460d-97dd-5bf82b7f22ef": {
+        "atom": "H",
+        "coordinate_x": -0.3472,
+        "coordinate_y": -2.7388,
+        "coordinate_z": 22.0325,
+        "bond": [
+            {
+                "to_atom": "73828d50-04dd-43d8-9778-f2ab402bd8c4",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "6c128a6b-9917-4b5a-b32c-d56e808d72b5": {
+        "atom": "H",
+        "coordinate_x": 0.1028,
+        "coordinate_y": -0.5787,
+        "coordinate_z": 23.2323,
+        "bond": [
+            {
+                "to_atom": "4707942c-043a-4c57-9a72-5ae6be6e28fe",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "87436a0e-f18c-424f-b985-efc5773a0848": {
+        "atom": "H",
+        "coordinate_x": -2.1397,
+        "coordinate_y": -2.2475,
+        "coordinate_z": 24.5448,
+        "bond": [
+            {
+                "to_atom": "747aaa32-fbed-4749-935c-c1bdfb97017b",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "35f7961a-c647-4711-9a26-5d49ed89c8d7": {
+        "atom": "H",
+        "coordinate_x": -1.6598,
+        "coordinate_y": -0.1921,
+        "coordinate_z": 23.1991,
+        "bond": [
+            {
+                "to_atom": "4707942c-043a-4c57-9a72-5ae6be6e28fe",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "2b62115d-9a0f-417f-a52b-23040fce56da": {
+        "atom": "H",
+        "coordinate_x": 1.6366,
+        "coordinate_y": 1.9291,
+        "coordinate_z": 6.3375,
+        "bond": [
+            {
+                "to_atom": "a5a3909e-1bfe-4866-9780-99d7d0772f66",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "3dd3f1ab-ad9e-4407-9fd9-17a023d60fb8": {
+        "atom": "H",
+        "coordinate_x": -1.3792,
+        "coordinate_y": 0.3601,
+        "coordinate_z": 20.3136,
+        "bond": [
+            {
+                "to_atom": "f1e92531-2465-46e5-beab-5ec1a6ee54ba",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "6c2cf9a5-b509-4fc5-87cf-7a5bd35bd28d": {
+        "atom": "C",
+        "coordinate_x": -0.1272,
+        "coordinate_y": 1.5221,
+        "coordinate_z": 16.517,
+        "bond": [
+            {
+                "to_atom": "8ecc3a05-b780-4420-86dd-a6276a31b82d",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "c7ce004b-47fa-4587-a7b6-4aa5e0bfdb0a",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "a75dfc34-33dc-4187-99ce-a53ca2f7b4d1",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "51576400-8050-4e7b-ac5e-0e4b3ae8b24f",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "d7cbb1f6-4bc7-4e20-808c-b2503f69bfcb": {
+        "atom": "C",
+        "coordinate_x": -0.0697,
+        "coordinate_y": 1.3529,
+        "coordinate_z": 11.4942,
+        "bond": [
+            {
+                "to_atom": "8cfc7b7d-ae4f-4a54-8249-d8c77b3e94f5",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "ae2a9918-d240-49dd-91a1-dc91edc4c97a",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "705b8b13-91c9-4aa5-bab4-bd43aeedda0c",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "a239180c-dd38-4329-b0e2-c3d9289b558c",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "8cfc7b7d-ae4f-4a54-8249-d8c77b3e94f5": {
+        "atom": "C",
+        "coordinate_x": -0.2708,
+        "coordinate_y": 0.5459,
+        "coordinate_z": 12.7774,
+        "bond": [
+            {
+                "to_atom": "d7cbb1f6-4bc7-4e20-808c-b2503f69bfcb",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "b5754d8a-53b1-42b4-9963-962110a6209e",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "d54f9697-300e-406d-9cb6-5d3799bc5f5c",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "dea47f51-ca0a-41fa-9291-5bd290e24b49",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "b5754d8a-53b1-42b4-9963-962110a6209e": {
+        "atom": "C",
+        "coordinate_x": -0.0985,
+        "coordinate_y": 1.4371,
+        "coordinate_z": 14.0066,
+        "bond": [
+            {
+                "to_atom": "8cfc7b7d-ae4f-4a54-8249-d8c77b3e94f5",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "8ecc3a05-b780-4420-86dd-a6276a31b82d",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "81ad41bd-6737-4050-94ae-94dd36e186a4",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "1b613007-0f17-4897-8ed0-4cfc953b1b51",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "8ecc3a05-b780-4420-86dd-a6276a31b82d": {
+        "atom": "C",
+        "coordinate_x": -0.2996,
+        "coordinate_y": 0.6305,
+        "coordinate_z": 15.2887,
+        "bond": [
+            {
+                "to_atom": "6c2cf9a5-b509-4fc5-87cf-7a5bd35bd28d",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "b5754d8a-53b1-42b4-9963-962110a6209e",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "ed449103-8992-46cc-a43d-13c8613700df",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "4f0d1e06-9c6d-4b9a-b37e-3b65bdbaa250",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "ae2a9918-d240-49dd-91a1-dc91edc4c97a": {
+        "atom": "H",
+        "coordinate_x": 0.9525,
+        "coordinate_y": 1.7925,
+        "coordinate_z": 11.4922,
+        "bond": [
+            {
+                "to_atom": "d7cbb1f6-4bc7-4e20-808c-b2503f69bfcb",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "705b8b13-91c9-4aa5-bab4-bd43aeedda0c": {
+        "atom": "H",
+        "coordinate_x": -0.8133,
+        "coordinate_y": 2.1798,
+        "coordinate_z": 11.4589,
+        "bond": [
+            {
+                "to_atom": "d7cbb1f6-4bc7-4e20-808c-b2503f69bfcb",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "d54f9697-300e-406d-9cb6-5d3799bc5f5c": {
+        "atom": "H",
+        "coordinate_x": 0.473,
+        "coordinate_y": -0.2807,
+        "coordinate_z": 12.8155,
+        "bond": [
+            {
+                "to_atom": "8cfc7b7d-ae4f-4a54-8249-d8c77b3e94f5",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "dea47f51-ca0a-41fa-9291-5bd290e24b49": {
+        "atom": "H",
+        "coordinate_x": -1.2931,
+        "coordinate_y": 0.1067,
+        "coordinate_z": 12.7822,
+        "bond": [
+            {
+                "to_atom": "8cfc7b7d-ae4f-4a54-8249-d8c77b3e94f5",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "ed449103-8992-46cc-a43d-13c8613700df": {
+        "atom": "H",
+        "coordinate_x": 0.4445,
+        "coordinate_y": -0.196,
+        "coordinate_z": 15.3261,
+        "bond": [
+            {
+                "to_atom": "8ecc3a05-b780-4420-86dd-a6276a31b82d",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "4f0d1e06-9c6d-4b9a-b37e-3b65bdbaa250": {
+        "atom": "H",
+        "coordinate_x": -1.322,
+        "coordinate_y": 0.1915,
+        "coordinate_z": 15.2928,
+        "bond": [
+            {
+                "to_atom": "8ecc3a05-b780-4420-86dd-a6276a31b82d",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "1bb9eb38-98e2-451a-a500-e46183d36b80": {
+        "atom": "H",
+        "coordinate_x": 0.3345,
+        "coordinate_y": 0.1602,
+        "coordinate_z": 25.4096,
+        "bond": [
+            {
+                "to_atom": "ff808dd0-92b4-412e-b45c-5b38484dd681",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "c7ce004b-47fa-4587-a7b6-4aa5e0bfdb0a": {
+        "atom": "C",
+        "coordinate_x": -0.3282,
+        "coordinate_y": 0.7155,
+        "coordinate_z": 17.7992,
+        "bond": [
+            {
+                "to_atom": "6c2cf9a5-b509-4fc5-87cf-7a5bd35bd28d",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "c9612ac8-306f-4a7b-a76c-a93351ca9a33",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "128dcd0e-3bac-4b0c-a98d-32d114ab6843",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "f095638f-8cb8-401e-9c97-d0e9dadb3d96",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "c9612ac8-306f-4a7b-a76c-a93351ca9a33": {
+        "atom": "C",
+        "coordinate_x": -0.1559,
+        "coordinate_y": 1.6067,
+        "coordinate_z": 19.0283,
+        "bond": [
+            {
+                "to_atom": "c7ce004b-47fa-4587-a7b6-4aa5e0bfdb0a",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "f1e92531-2465-46e5-beab-5ec1a6ee54ba",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "4f2fbcb1-fed9-4b04-a1a3-758205628e66",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "3b6d961c-9046-4190-adb5-5c2fc65663c2",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "f1e92531-2465-46e5-beab-5ec1a6ee54ba": {
+        "atom": "C",
+        "coordinate_x": -0.357,
+        "coordinate_y": 0.7997,
+        "coordinate_z": 20.3115,
+        "bond": [
+            {
+                "to_atom": "3dd3f1ab-ad9e-4407-9fd9-17a023d60fb8",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "c9612ac8-306f-4a7b-a76c-a93351ca9a33",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "0e91ee1c-180b-47be-9f07-7fbd574947a9",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "9a1e33b7-d279-4f4e-8db6-079abb99dff6",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "128dcd0e-3bac-4b0c-a98d-32d114ab6843": {
+        "atom": "H",
+        "coordinate_x": -1.3505,
+        "coordinate_y": 0.2763,
+        "coordinate_z": 17.8025,
+        "bond": [
+            {
+                "to_atom": "c7ce004b-47fa-4587-a7b6-4aa5e0bfdb0a",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "f095638f-8cb8-401e-9c97-d0e9dadb3d96": {
+        "atom": "H",
+        "coordinate_x": 0.4157,
+        "coordinate_y": -0.1111,
+        "coordinate_z": 17.8357,
+        "bond": [
+            {
+                "to_atom": "c7ce004b-47fa-4587-a7b6-4aa5e0bfdb0a",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "0e91ee1c-180b-47be-9f07-7fbd574947a9": {
+        "atom": "H",
+        "coordinate_x": 0.3866,
+        "coordinate_y": -0.0272,
+        "coordinate_z": 20.3468,
+        "bond": [
+            {
+                "to_atom": "f1e92531-2465-46e5-beab-5ec1a6ee54ba",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "a239180c-dd38-4329-b0e2-c3d9289b558c": {
+        "atom": "C",
+        "coordinate_x": -0.2418,
+        "coordinate_y": 0.4624,
+        "coordinate_z": 10.2629,
+        "bond": [
+            {
+                "to_atom": "d7cbb1f6-4bc7-4e20-808c-b2503f69bfcb",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "b136df46-a719-48fa-a054-cd8d7bb22dc4",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "80d80c58-8bee-4e62-8a69-bc13bef12f6d",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "211c087a-9996-4ee0-a886-73b56d339c96",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "b136df46-a719-48fa-a054-cd8d7bb22dc4": {
+        "atom": "H",
+        "coordinate_x": 0.5016,
+        "coordinate_y": -0.3646,
+        "coordinate_z": 10.301,
+        "bond": [
+            {
+                "to_atom": "a239180c-dd38-4329-b0e2-c3d9289b558c",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "80d80c58-8bee-4e62-8a69-bc13bef12f6d": {
+        "atom": "H",
+        "coordinate_x": -1.2638,
+        "coordinate_y": 0.0226,
+        "coordinate_z": 10.2678,
+        "bond": [
+            {
+                "to_atom": "a239180c-dd38-4329-b0e2-c3d9289b558c",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "211c087a-9996-4ee0-a886-73b56d339c96": {
+        "atom": "C",
+        "coordinate_x": -0.0409,
+        "coordinate_y": 1.2681,
+        "coordinate_z": 8.9773,
+        "bond": [
+            {
+                "to_atom": "a239180c-dd38-4329-b0e2-c3d9289b558c",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "53948d62-ab12-47b8-849b-2d296a4a2844",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "b0a4e644-0887-43ff-8fac-43dc1222a59f",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "bb8e755c-2800-4a1d-b0cf-84c758ccd65a",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "53948d62-ab12-47b8-849b-2d296a4a2844": {
+        "atom": "H",
+        "coordinate_x": 0.9809,
+        "coordinate_y": 1.7085,
+        "coordinate_z": 8.975,
+        "bond": [
+            {
+                "to_atom": "211c087a-9996-4ee0-a886-73b56d339c96",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "b0a4e644-0887-43ff-8fac-43dc1222a59f": {
+        "atom": "H",
+        "coordinate_x": -0.7839,
+        "coordinate_y": 2.0955,
+        "coordinate_z": 8.9418,
+        "bond": [
+            {
+                "to_atom": "211c087a-9996-4ee0-a886-73b56d339c96",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "bb8e755c-2800-4a1d-b0cf-84c758ccd65a": {
+        "atom": "C",
+        "coordinate_x": 0.2521,
+        "coordinate_y": 0.778,
+        "coordinate_z": 7.4589,
+        "bond": [
+            {
+                "to_atom": "211c087a-9996-4ee0-a886-73b56d339c96",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "a5a3909e-1bfe-4866-9780-99d7d0772f66",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "706be3e6-94c7-4fe0-bca6-5f5b4352d2ed",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "af9a24f0-64f7-48ce-ad76-7cb8234444f2",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "a5a3909e-1bfe-4866-9780-99d7d0772f66": {
+        "atom": "C",
+        "coordinate_x": 1.1651,
+        "coordinate_y": 0.9278,
+        "coordinate_z": 6.3396,
+        "bond": [
+            {
+                "to_atom": "1dff0bc8-7b69-4e37-a123-3e70e3538da4",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "2b62115d-9a0f-417f-a52b-23040fce56da",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "bb8e755c-2800-4a1d-b0cf-84c758ccd65a",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "10e2faa8-d9a9-4a18-9272-cd516c8f6f0d",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "706be3e6-94c7-4fe0-bca6-5f5b4352d2ed": {
+        "atom": "H",
+        "coordinate_x": -0.7005,
+        "coordinate_y": 0.7815,
+        "coordinate_z": 6.9223,
+        "bond": [
+            {
+                "to_atom": "bb8e755c-2800-4a1d-b0cf-84c758ccd65a",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "af9a24f0-64f7-48ce-ad76-7cb8234444f2": {
+        "atom": "H",
+        "coordinate_x": 0.5287,
+        "coordinate_y": -0.4512,
+        "coordinate_z": 7.7751,
+        "bond": [
+            {
+                "to_atom": "bb8e755c-2800-4a1d-b0cf-84c758ccd65a",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "9a1e33b7-d279-4f4e-8db6-079abb99dff6": {
+        "atom": "C",
+        "coordinate_x": -0.1849,
+        "coordinate_y": 1.6902,
+        "coordinate_z": 21.5429,
+        "bond": [
+            {
+                "to_atom": "f1e92531-2465-46e5-beab-5ec1a6ee54ba",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "9b08b871-34e6-4748-a33e-58a95f851e84",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "49252637-2036-466a-8f62-14138d35abd9",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "14915f3d-b362-40b8-a8c4-d5b5f6e2e5f8",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "9b08b871-34e6-4748-a33e-58a95f851e84": {
+        "atom": "C",
+        "coordinate_x": -0.3858,
+        "coordinate_y": 0.8845,
+        "coordinate_z": 22.8284,
+        "bond": [
+            {
+                "to_atom": "9a1e33b7-d279-4f4e-8db6-079abb99dff6",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "627d2681-745d-484a-a0f3-5b95dc53a62f",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "3997c9c2-d27d-4420-84d0-aa13018a58f5",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "1c13c2ed-99b5-4fd4-8d80-1a50163a0a2b",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "ff808dd0-92b4-412e-b45c-5b38484dd681": {
+        "atom": "C",
+        "coordinate_x": -0.4123,
+        "coordinate_y": 0.9799,
+        "coordinate_z": 25.3455,
+        "bond": [
+            {
+                "to_atom": "1bb9eb38-98e2-451a-a500-e46183d36b80",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "ea182354-f316-43e8-b9df-b40e8aecca28",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "34006fb6-6455-4c90-a74c-c2a1ecb2520b",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "1c13c2ed-99b5-4fd4-8d80-1a50163a0a2b",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "627d2681-745d-484a-a0f3-5b95dc53a62f": {
+        "atom": "H",
+        "coordinate_x": -1.4076,
+        "coordinate_y": 0.4441,
+        "coordinate_z": 22.8307,
+        "bond": [
+            {
+                "to_atom": "9b08b871-34e6-4748-a33e-58a95f851e84",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "3997c9c2-d27d-4420-84d0-aa13018a58f5": {
+        "atom": "H",
+        "coordinate_x": 0.3571,
+        "coordinate_y": 0.0571,
+        "coordinate_z": 22.864,
+        "bond": [
+            {
+                "to_atom": "9b08b871-34e6-4748-a33e-58a95f851e84",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "ea182354-f316-43e8-b9df-b40e8aecca28": {
+        "atom": "H",
+        "coordinate_x": -1.4353,
+        "coordinate_y": 0.5484,
+        "coordinate_z": 25.3763,
+        "bond": [
+            {
+                "to_atom": "ff808dd0-92b4-412e-b45c-5b38484dd681",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "10e2faa8-d9a9-4a18-9272-cd516c8f6f0d": {
+        "atom": "H",
+        "coordinate_x": 1.9059,
+        "coordinate_y": 0.105,
+        "coordinate_z": 6.2151,
+        "bond": [
+            {
+                "to_atom": "a5a3909e-1bfe-4866-9780-99d7d0772f66",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "a75dfc34-33dc-4187-99ce-a53ca2f7b4d1": {
+        "atom": "H",
+        "coordinate_x": -0.8712,
+        "coordinate_y": 2.3486,
+        "coordinate_z": 16.4796,
+        "bond": [
+            {
+                "to_atom": "6c2cf9a5-b509-4fc5-87cf-7a5bd35bd28d",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "51576400-8050-4e7b-ac5e-0e4b3ae8b24f": {
+        "atom": "H",
+        "coordinate_x": 0.8953,
+        "coordinate_y": 1.9611,
+        "coordinate_z": 16.5129,
+        "bond": [
+            {
+                "to_atom": "6c2cf9a5-b509-4fc5-87cf-7a5bd35bd28d",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "81ad41bd-6737-4050-94ae-94dd36e186a4": {
+        "atom": "H",
+        "coordinate_x": -0.8425,
+        "coordinate_y": 2.2637,
+        "coordinate_z": 13.97,
+        "bond": [
+            {
+                "to_atom": "b5754d8a-53b1-42b4-9963-962110a6209e",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "1b613007-0f17-4897-8ed0-4cfc953b1b51": {
+        "atom": "H",
+        "coordinate_x": 0.9238,
+        "coordinate_y": 1.8763,
+        "coordinate_z": 14.0033,
+        "bond": [
+            {
+                "to_atom": "b5754d8a-53b1-42b4-9963-962110a6209e",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "4f2fbcb1-fed9-4b04-a1a3-758205628e66": {
+        "atom": "H",
+        "coordinate_x": -0.8997,
+        "coordinate_y": 2.4333,
+        "coordinate_z": 18.9903,
+        "bond": [
+            {
+                "to_atom": "c9612ac8-306f-4a7b-a76c-a93351ca9a33",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "3b6d961c-9046-4190-adb5-5c2fc65663c2": {
+        "atom": "H",
+        "coordinate_x": 0.8664,
+        "coordinate_y": 2.0459,
+        "coordinate_z": 19.0235,
+        "bond": [
+            {
+                "to_atom": "c9612ac8-306f-4a7b-a76c-a93351ca9a33",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "49252637-2036-466a-8f62-14138d35abd9": {
+        "atom": "H",
+        "coordinate_x": -0.9283,
+        "coordinate_y": 2.5172,
+        "coordinate_z": 21.5047,
+        "bond": [
+            {
+                "to_atom": "9a1e33b7-d279-4f4e-8db6-079abb99dff6",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "14915f3d-b362-40b8-a8c4-d5b5f6e2e5f8": {
+        "atom": "H",
+        "coordinate_x": 0.8371,
+        "coordinate_y": 2.13,
+        "coordinate_z": 21.5379,
+        "bond": [
+            {
+                "to_atom": "9a1e33b7-d279-4f4e-8db6-079abb99dff6",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "34006fb6-6455-4c90-a74c-c2a1ecb2520b": {
+        "atom": "H",
+        "coordinate_x": -0.2818,
+        "coordinate_y": 1.6503,
+        "coordinate_z": 26.2203,
+        "bond": [
+            {
+                "to_atom": "ff808dd0-92b4-412e-b45c-5b38484dd681",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "1c13c2ed-99b5-4fd4-8d80-1a50163a0a2b": {
+        "atom": "C",
+        "coordinate_x": -0.2135,
+        "coordinate_y": 1.7763,
+        "coordinate_z": 24.0608,
+        "bond": [
+            {
+                "to_atom": "d27bece5-9ccf-4c2d-bf25-8234fb16d6ae",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "9b08b871-34e6-4748-a33e-58a95f851e84",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "ff808dd0-92b4-412e-b45c-5b38484dd681",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "7d68bba8-e513-4ca0-9591-ef6e224bbe22",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "7d68bba8-e513-4ca0-9591-ef6e224bbe22": {
+        "atom": "H",
+        "coordinate_x": 0.8072,
+        "coordinate_y": 2.2172,
+        "coordinate_z": 24.0638,
+        "bond": [
+            {
+                "to_atom": "1c13c2ed-99b5-4fd4-8d80-1a50163a0a2b",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "ddd889c3-0305-4d4e-a87b-f88777c4d216": {
+        "atom": "H",
+        "coordinate_x": -0.847,
+        "coordinate_y": 3.861,
+        "coordinate_z": 4.0244,
+        "bond": [
+            {
+                "to_atom": "86a144ac-a28f-4baa-a609-7a6fe35fefb6",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "720f8506-4411-4a55-83e2-7a83b3c69f68": {
+        "atom": "H",
+        "coordinate_x": -0.9122,
+        "coordinate_y": 3.9966,
+        "coordinate_z": 18.7784,
+        "bond": [
+            {
+                "to_atom": "6dff5061-fdef-457d-922a-61b69826fd38",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "7b0fedc0-fa60-4940-a1bd-ea70e07576fa": {
+        "atom": "C",
+        "coordinate_x": 0.3432,
+        "coordinate_y": 4.9437,
+        "coordinate_z": 14.9238,
+        "bond": [
+            {
+                "to_atom": "7745900d-3065-4de4-9008-9a76abbb9ff0",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "5c077211-ed5b-4460-bb9b-2d5ba1aaba27",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "cd3d22d9-4693-4bef-96e1-b74f71a79737",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "ad3ffc74-238b-43b0-8f9b-a943031ec37a",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "5df71e5a-1c7f-41c8-b71f-9b3882648177": {
+        "atom": "C",
+        "coordinate_x": 0.4243,
+        "coordinate_y": 4.4752,
+        "coordinate_z": 9.9204,
+        "bond": [
+            {
+                "to_atom": "f274959f-64a2-44ea-a07f-64ddb8d76f0d",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "6a30a4be-e6e2-4c4f-8b48-b0fe44b62262",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "84563c1e-9b4b-4314-8a28-c4b262807208",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "c0e8df19-ef15-491a-b6f6-596db8ae42bc",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "f274959f-64a2-44ea-a07f-64ddb8d76f0d": {
+        "atom": "C",
+        "coordinate_x": 0.2267,
+        "coordinate_y": 3.7442,
+        "coordinate_z": 11.2488,
+        "bond": [
+            {
+                "to_atom": "5df71e5a-1c7f-41c8-b71f-9b3882648177",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "d8daa6af-087e-49c8-8332-ded672befe6a",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "4495d99d-b048-4417-a5c9-f24d167099c6",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "a08601b0-f372-49c2-ae74-819a9f70edb9",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "d8daa6af-087e-49c8-8332-ded672befe6a": {
+        "atom": "C",
+        "coordinate_x": 0.3837,
+        "coordinate_y": 4.7092,
+        "coordinate_z": 12.423,
+        "bond": [
+            {
+                "to_atom": "f274959f-64a2-44ea-a07f-64ddb8d76f0d",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "7745900d-3065-4de4-9008-9a76abbb9ff0",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "1cc713f6-05c5-48c0-8f7e-048809c4dc68",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "d847d868-64f2-47d0-872b-085b17cef0fd",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "7745900d-3065-4de4-9008-9a76abbb9ff0": {
+        "atom": "C",
+        "coordinate_x": 0.1861,
+        "coordinate_y": 3.9784,
+        "coordinate_z": 13.7504,
+        "bond": [
+            {
+                "to_atom": "7b0fedc0-fa60-4940-a1bd-ea70e07576fa",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "d8daa6af-087e-49c8-8332-ded672befe6a",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "342fb286-075d-4006-bc96-cfc3aa43eef7",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "ed11e714-c65a-4f4a-a227-0785e3e35eca",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "6a30a4be-e6e2-4c4f-8b48-b0fe44b62262": {
+        "atom": "H",
+        "coordinate_x": 1.4415,
+        "coordinate_y": 4.9256,
+        "coordinate_z": 9.8957,
+        "bond": [
+            {
+                "to_atom": "5df71e5a-1c7f-41c8-b71f-9b3882648177",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "84563c1e-9b4b-4314-8a28-c4b262807208": {
+        "atom": "H",
+        "coordinate_x": -0.3284,
+        "coordinate_y": 5.29,
+        "coordinate_z": 9.8329,
+        "bond": [
+            {
+                "to_atom": "5df71e5a-1c7f-41c8-b71f-9b3882648177",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "4495d99d-b048-4417-a5c9-f24d167099c6": {
+        "atom": "H",
+        "coordinate_x": 0.9795,
+        "coordinate_y": 2.9298,
+        "coordinate_z": 11.3389,
+        "bond": [
+            {
+                "to_atom": "f274959f-64a2-44ea-a07f-64ddb8d76f0d",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "a08601b0-f372-49c2-ae74-819a9f70edb9": {
+        "atom": "H",
+        "coordinate_x": -0.7907,
+        "coordinate_y": 3.2943,
+        "coordinate_z": 11.2761,
+        "bond": [
+            {
+                "to_atom": "f274959f-64a2-44ea-a07f-64ddb8d76f0d",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "342fb286-075d-4006-bc96-cfc3aa43eef7": {
+        "atom": "H",
+        "coordinate_x": 0.9392,
+        "coordinate_y": 3.1642,
+        "coordinate_z": 13.8399,
+        "bond": [
+            {
+                "to_atom": "7745900d-3065-4de4-9008-9a76abbb9ff0",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "ed11e714-c65a-4f4a-a227-0785e3e35eca": {
+        "atom": "H",
+        "coordinate_x": -0.8314,
+        "coordinate_y": 3.5287,
+        "coordinate_z": 13.777,
+        "bond": [
+            {
+                "to_atom": "7745900d-3065-4de4-9008-9a76abbb9ff0",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "0142ac2b-3f01-4711-a4a2-f8feb92aafb1": {
+        "atom": "H",
+        "coordinate_x": 0.7814,
+        "coordinate_y": 4.1214,
+        "coordinate_z": 23.8835,
+        "bond": [
+            {
+                "to_atom": "23d997f1-4cb3-475d-b326-0b8423f161ae",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "5c077211-ed5b-4460-bb9b-2d5ba1aaba27": {
+        "atom": "C",
+        "coordinate_x": 0.1456,
+        "coordinate_y": 4.213,
+        "coordinate_z": 16.2512,
+        "bond": [
+            {
+                "to_atom": "7b0fedc0-fa60-4940-a1bd-ea70e07576fa",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "78f659aa-c35d-42e7-97fa-0929a4b73b0b",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "4626cf1d-886d-4ebb-a4b3-2c9239efb7ee",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "9181d57f-129c-4a57-8adf-6065baa81acf",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "78f659aa-c35d-42e7-97fa-0929a4b73b0b": {
+        "atom": "C",
+        "coordinate_x": 0.3026,
+        "coordinate_y": 5.178,
+        "coordinate_z": 17.4254,
+        "bond": [
+            {
+                "to_atom": "5c077211-ed5b-4460-bb9b-2d5ba1aaba27",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "6dff5061-fdef-457d-922a-61b69826fd38",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "44b54b36-f207-4ecd-9f5f-19e7802376da",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "ff981ae6-4319-4075-adc2-38939877f0ec",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "6dff5061-fdef-457d-922a-61b69826fd38": {
+        "atom": "C",
+        "coordinate_x": 0.1049,
+        "coordinate_y": 4.447,
+        "coordinate_z": 18.7538,
+        "bond": [
+            {
+                "to_atom": "720f8506-4411-4a55-83e2-7a83b3c69f68",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "78f659aa-c35d-42e7-97fa-0929a4b73b0b",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "e23b6617-39c4-4cbe-8448-e612eefba336",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "c8a99d02-72e1-4707-99ec-3b1a32c66421",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "4626cf1d-886d-4ebb-a4b3-2c9239efb7ee": {
+        "atom": "H",
+        "coordinate_x": -0.8717,
+        "coordinate_y": 3.7632,
+        "coordinate_z": 16.277,
+        "bond": [
+            {
+                "to_atom": "5c077211-ed5b-4460-bb9b-2d5ba1aaba27",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "9181d57f-129c-4a57-8adf-6065baa81acf": {
+        "atom": "H",
+        "coordinate_x": 0.8986,
+        "coordinate_y": 3.3987,
+        "coordinate_z": 16.3398,
+        "bond": [
+            {
+                "to_atom": "5c077211-ed5b-4460-bb9b-2d5ba1aaba27",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "e23b6617-39c4-4cbe-8448-e612eefba336": {
+        "atom": "H",
+        "coordinate_x": 0.8577,
+        "coordinate_y": 3.6322,
+        "coordinate_z": 18.8413,
+        "bond": [
+            {
+                "to_atom": "6dff5061-fdef-457d-922a-61b69826fd38",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "c0e8df19-ef15-491a-b6f6-596db8ae42bc": {
+        "atom": "C",
+        "coordinate_x": 0.2675,
+        "coordinate_y": 3.5107,
+        "coordinate_z": 8.7439,
+        "bond": [
+            {
+                "to_atom": "5df71e5a-1c7f-41c8-b71f-9b3882648177",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "482729fb-ac95-421e-967b-0617f31f9d1f",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "9856744d-2dd0-49e0-a94d-2bc465cd7c87",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "9860cd6b-2350-401c-8787-7d45b4f311d7",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "482729fb-ac95-421e-967b-0617f31f9d1f": {
+        "atom": "H",
+        "coordinate_x": 1.0199,
+        "coordinate_y": 2.6961,
+        "coordinate_z": 8.8342,
+        "bond": [
+            {
+                "to_atom": "c0e8df19-ef15-491a-b6f6-596db8ae42bc",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "9856744d-2dd0-49e0-a94d-2bc465cd7c87": {
+        "atom": "H",
+        "coordinate_x": -0.7495,
+        "coordinate_y": 3.0604,
+        "coordinate_z": 8.7713,
+        "bond": [
+            {
+                "to_atom": "c0e8df19-ef15-491a-b6f6-596db8ae42bc",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "9860cd6b-2350-401c-8787-7d45b4f311d7": {
+        "atom": "C",
+        "coordinate_x": 0.465,
+        "coordinate_y": 4.2404,
+        "coordinate_z": 7.4131,
+        "bond": [
+            {
+                "to_atom": "c0e8df19-ef15-491a-b6f6-596db8ae42bc",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "77d75aa4-0286-48b1-b2d6-500bc19d586f",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "8ab4bb96-b8e0-46d4-90dc-05d6bbb96cfe",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "85c7339b-6e18-426f-ac18-1067a595f606",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "77d75aa4-0286-48b1-b2d6-500bc19d586f": {
+        "atom": "H",
+        "coordinate_x": 1.4818,
+        "coordinate_y": 4.6915,
+        "coordinate_z": 7.3882,
+        "bond": [
+            {
+                "to_atom": "9860cd6b-2350-401c-8787-7d45b4f311d7",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "8ab4bb96-b8e0-46d4-90dc-05d6bbb96cfe": {
+        "atom": "H",
+        "coordinate_x": -0.287,
+        "coordinate_y": 5.0557,
+        "coordinate_z": 7.3254,
+        "bond": [
+            {
+                "to_atom": "9860cd6b-2350-401c-8787-7d45b4f311d7",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "85c7339b-6e18-426f-ac18-1067a595f606": {
+        "atom": "C",
+        "coordinate_x": -0.4006,
+        "coordinate_y": 3.6294,
+        "coordinate_z": 6.1719,
+        "bond": [
+            {
+                "to_atom": "9860cd6b-2350-401c-8787-7d45b4f311d7",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "86a144ac-a28f-4baa-a609-7a6fe35fefb6",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "eeffc4ca-7243-41bf-b5e9-a2b0fd402160",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "1d5d0452-f817-4efb-9aee-e80cee715f21",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "86a144ac-a28f-4baa-a609-7a6fe35fefb6": {
+        "atom": "C",
+        "coordinate_x": 0.0413,
+        "coordinate_y": 3.7044,
+        "coordinate_z": 4.6806,
+        "bond": [
+            {
+                "to_atom": "6d93f6c4-7bab-4e58-93a8-0fbbf4200ca5",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "ddd889c3-0305-4d4e-a87b-f88777c4d216",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "85c7339b-6e18-426f-ac18-1067a595f606",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "e8463e6d-ecd8-4b36-a6b8-ef41bf012f9d",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "eeffc4ca-7243-41bf-b5e9-a2b0fd402160": {
+        "atom": "H",
+        "coordinate_x": -1.443,
+        "coordinate_y": 4.0605,
+        "coordinate_z": 6.1382,
+        "bond": [
+            {
+                "to_atom": "85c7339b-6e18-426f-ac18-1067a595f606",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "1d5d0452-f817-4efb-9aee-e80cee715f21": {
+        "atom": "H",
+        "coordinate_x": -0.7596,
+        "coordinate_y": 2.6508,
+        "coordinate_z": 6.3549,
+        "bond": [
+            {
+                "to_atom": "85c7339b-6e18-426f-ac18-1067a595f606",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "c8a99d02-72e1-4707-99ec-3b1a32c66421": {
+        "atom": "C",
+        "coordinate_x": 0.2617,
+        "coordinate_y": 5.4114,
+        "coordinate_z": 19.9303,
+        "bond": [
+            {
+                "to_atom": "6dff5061-fdef-457d-922a-61b69826fd38",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "f5cd0057-eb92-47a7-b36b-dfdc93eb2ce3",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "627c5f3d-6ecb-4690-a735-8957f3195d49",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "b71abd80-0469-4da6-8f3b-bb797d74a3a8",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "f5cd0057-eb92-47a7-b36b-dfdc93eb2ce3": {
+        "atom": "C",
+        "coordinate_x": 0.0643,
+        "coordinate_y": 4.6818,
+        "coordinate_z": 21.261,
+        "bond": [
+            {
+                "to_atom": "c8a99d02-72e1-4707-99ec-3b1a32c66421",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "8b13518b-10d2-4069-b857-534222999cb5",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "d8d4fbfb-cc6c-4dfc-87b0-8093be48ffca",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "13e54353-11a9-4e95-a53f-13fb55ee52f7",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "23d997f1-4cb3-475d-b326-0b8423f161ae": {
+        "atom": "C",
+        "coordinate_x": 0.0258,
+        "coordinate_y": 4.9272,
+        "coordinate_z": 23.7677,
+        "bond": [
+            {
+                "to_atom": "0142ac2b-3f01-4711-a4a2-f8feb92aafb1",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "f632440f-e1fe-414b-9230-a397cf5f0491",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "4db05f1b-f123-414c-8d37-e40256293b73",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "13e54353-11a9-4e95-a53f-13fb55ee52f7",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "8b13518b-10d2-4069-b857-534222999cb5": {
+        "atom": "H",
+        "coordinate_x": -0.9525,
+        "coordinate_y": 4.2307,
+        "coordinate_z": 21.286,
+        "bond": [
+            {
+                "to_atom": "f5cd0057-eb92-47a7-b36b-dfdc93eb2ce3",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "d8d4fbfb-cc6c-4dfc-87b0-8093be48ffca": {
+        "atom": "H",
+        "coordinate_x": 0.8163,
+        "coordinate_y": 3.8665,
+        "coordinate_z": 21.3487,
+        "bond": [
+            {
+                "to_atom": "f5cd0057-eb92-47a7-b36b-dfdc93eb2ce3",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "f632440f-e1fe-414b-9230-a397cf5f0491": {
+        "atom": "H",
+        "coordinate_x": -0.9924,
+        "coordinate_y": 4.4866,
+        "coordinate_z": 23.8206,
+        "bond": [
+            {
+                "to_atom": "23d997f1-4cb3-475d-b326-0b8423f161ae",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "e8463e6d-ecd8-4b36-a6b8-ef41bf012f9d": {
+        "atom": "H",
+        "coordinate_x": 0.679,
+        "coordinate_y": 4.6036,
+        "coordinate_z": 4.5556,
+        "bond": [
+            {
+                "to_atom": "86a144ac-a28f-4baa-a609-7a6fe35fefb6",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "cd3d22d9-4693-4bef-96e1-b74f71a79737": {
+        "atom": "H",
+        "coordinate_x": -0.41,
+        "coordinate_y": 5.758,
+        "coordinate_z": 14.8343,
+        "bond": [
+            {
+                "to_atom": "7b0fedc0-fa60-4940-a1bd-ea70e07576fa",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "ad3ffc74-238b-43b0-8f9b-a943031ec37a": {
+        "atom": "H",
+        "coordinate_x": 1.3607,
+        "coordinate_y": 5.3934,
+        "coordinate_z": 14.8971,
+        "bond": [
+            {
+                "to_atom": "7b0fedc0-fa60-4940-a1bd-ea70e07576fa",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "1cc713f6-05c5-48c0-8f7e-048809c4dc68": {
+        "atom": "H",
+        "coordinate_x": -0.3693,
+        "coordinate_y": 5.5235,
+        "coordinate_z": 12.3343,
+        "bond": [
+            {
+                "to_atom": "d8daa6af-087e-49c8-8332-ded672befe6a",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "d847d868-64f2-47d0-872b-085b17cef0fd": {
+        "atom": "H",
+        "coordinate_x": 1.401,
+        "coordinate_y": 5.159,
+        "coordinate_z": 12.3972,
+        "bond": [
+            {
+                "to_atom": "d8daa6af-087e-49c8-8332-ded672befe6a",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "44b54b36-f207-4ecd-9f5f-19e7802376da": {
+        "atom": "H",
+        "coordinate_x": -0.4503,
+        "coordinate_y": 5.9923,
+        "coordinate_z": 17.3352,
+        "bond": [
+            {
+                "to_atom": "78f659aa-c35d-42e7-97fa-0929a4b73b0b",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "ff981ae6-4319-4075-adc2-38939877f0ec": {
+        "atom": "H",
+        "coordinate_x": 1.32,
+        "coordinate_y": 5.6278,
+        "coordinate_z": 17.3981,
+        "bond": [
+            {
+                "to_atom": "78f659aa-c35d-42e7-97fa-0929a4b73b0b",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "627c5f3d-6ecb-4690-a735-8957f3195d49": {
+        "atom": "H",
+        "coordinate_x": -0.4907,
+        "coordinate_y": 6.226,
+        "coordinate_z": 19.84,
+        "bond": [
+            {
+                "to_atom": "c8a99d02-72e1-4707-99ec-3b1a32c66421",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "b71abd80-0469-4da6-8f3b-bb797d74a3a8": {
+        "atom": "H",
+        "coordinate_x": 1.2788,
+        "coordinate_y": 5.8617,
+        "coordinate_z": 19.9028,
+        "bond": [
+            {
+                "to_atom": "c8a99d02-72e1-4707-99ec-3b1a32c66421",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "4db05f1b-f123-414c-8d37-e40256293b73": {
+        "atom": "H",
+        "coordinate_x": 0.1451,
+        "coordinate_y": 5.6501,
+        "coordinate_z": 24.6014,
+        "bond": [
+            {
+                "to_atom": "23d997f1-4cb3-475d-b326-0b8423f161ae",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "13e54353-11a9-4e95-a53f-13fb55ee52f7": {
+        "atom": "C",
+        "coordinate_x": 0.2213,
+        "coordinate_y": 5.6475,
+        "coordinate_z": 22.4385,
+        "bond": [
+            {
+                "to_atom": "0ba05676-9e45-4e8b-993d-334080b6254e",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "f5cd0057-eb92-47a7-b36b-dfdc93eb2ce3",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "23d997f1-4cb3-475d-b326-0b8423f161ae",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "706e5e9d-5c02-4c0f-9151-dc94e3989e4d",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "706e5e9d-5c02-4c0f-9151-dc94e3989e4d": {
+        "atom": "H",
+        "coordinate_x": 1.237,
+        "coordinate_y": 6.0995,
+        "coordinate_z": 22.4188,
+        "bond": [
+            {
+                "to_atom": "13e54353-11a9-4e95-a53f-13fb55ee52f7",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "94618b01-38be-4cb9-96ae-73cc2e2754f0": {
+        "atom": "X",
+        "coordinate_x": -0.5666,
+        "coordinate_y": -3.3511,
+        "coordinate_z": -3.4854,
+        "bond": [
+            {
+                "to_atom": "246fb7dc-7622-40b5-adde-664363a95d18",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "daf98310-d3df-49a0-844f-7108414a7ce4",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "3e7fa9cb-5f29-412a-b05c-131d1814be7d": {
+        "atom": "X",
+        "coordinate_x": 0.8316,
+        "coordinate_y": 3.9512,
+        "coordinate_z": -3.4279,
+        "bond": [
+            {
+                "to_atom": "83f839a7-6ee1-4e05-8632-5d4f53b6c4fc",
+                "bond_order": 1.0
+            },
+            {
+                "to_atom": "cf13d4b9-5bc9-4037-8b2c-1a4fd611d228",
+                "bond_order": 1.0
+            }
+        ],
+        "mmtype": "",
+        "qmmm": ""
+    },
+    "CENTER": {
+        "atom": "CENTER",
+        "coordinate_x": 0.02988227,              
+        "coordinate_y": 0.30274766,
+        "coordinate_z": -1.31480530,
+        "bond": [],
+        "mmtype": "C_R",
+        "qmmm": "MM"
+    }
+}
